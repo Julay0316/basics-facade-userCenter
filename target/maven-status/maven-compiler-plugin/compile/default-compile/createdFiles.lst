@@ -1,0 +1,15 @@
+com\labi\itfin\basics\facade\userCenter\dto\EducationalInfoDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\UrgentCpInfoHisDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\BankcardInfoDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\UserFileDTO.class
+com\labi\itfin\basics\facade\userCenter\Imp\Idcard.class
+com\labi\itfin\basics\facade\userCenter\dto\BankcardValiHisDTO.class
+com\labi\itfin\basics\facade\userCenter\facade\UserInfoFacadeService.class
+com\labi\itfin\basics\facade\userCenter\dto\BankcardInfoArrDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\UniValiHisDTO.class
+com\labi\itfin\basics\facade\userCenter\Imp\User.class
+com\labi\itfin\basics\facade\userCenter\dto\UrgentCpInfoArrDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\UserDataIntegrityCkDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\IdcardInfoDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\IdcardValiHisDTO.class
+com\labi\itfin\basics\facade\userCenter\dto\UserDTO.class
